@@ -3,7 +3,7 @@
 ## 📌 Link do Repositório GitHub
 
 ```
-[INSIRA AQUI O LINK DO SEU REPOSITÓRIO]
+[git@github.com:valerio-jr/Projeto-com-Prisma-ORM---Aula-01---UNITINS.git]
 ```
 
 ---
